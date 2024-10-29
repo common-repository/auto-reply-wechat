@@ -1,0 +1,25 @@
+.wp-block-wechatreplay-ymz-wechatreplay-editable{
+    border: 1px solid #5dc7fd;
+    border-radius: 5px;
+    padding: 15px 10px;
+    position: relative;
+}
+
+/*此处配置是调整js文件中classname为my-custom-input的div样式*/
+/*.my-custom-input {*/
+/*    border: 2px solid #0073aa;*/
+/*    padding: 10px;*/
+/*    border-radius: 4px;*/
+/*    font-size: 16px;*/
+/*    background-color: #f9f9f9;*/
+/*}*/
+
+/*.my-custom-input:focus {*/
+/*    outline: none;*/
+/*    border-color: #005177;*/
+/*}*/
+
+
+
+
+
